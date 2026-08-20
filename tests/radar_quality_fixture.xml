@@ -1,0 +1,23 @@
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation>
+      <PMID>99900001</PMID>
+      <Article>
+        <ArticleTitle>Future issue with current electronic publication</ArticleTitle>
+        <Abstract><AbstractText>Example abstract for validation.</AbstractText></Abstract>
+        <Journal>
+          <Title>Example Journal</Title>
+          <JournalIssue>
+            <PubDate><Year>2027</Year><Month>Jan</Month><Day>10</Day></PubDate>
+          </JournalIssue>
+        </Journal>
+        <ArticleDate DateType="Electronic"><Year>2026</Year><Month>07</Month><Day>24</Day></ArticleDate>
+      </Article>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed"><Year>2026</Year><Month>07</Month><Day>25</Day></PubMedPubDate>
+      </History>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>
